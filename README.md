@@ -1,5 +1,5 @@
-Astronomy Science Olympiad Notes Starter
-A  script I made that automatically summarizes webpages using a nlp python library. It will Google each topic(that you input into topics.txt) and automatically summarize websites from the first page of results in Google. 
+A  script I made that automatically summarizes webpages using a nlp python library. 
+It will Google each topic(that you input into topics.txt) and automatically summarize websites from the first page of results in Google. 
 
 It is not perfect and some pages will have errors, but it could help save time when pages need to quickly be summarized for research purposes or something along the lines of that. 
 
