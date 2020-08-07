@@ -8,10 +8,12 @@ In the command line:
 
 $ python url_summarizer.py topics.txt 
 
-Formating the Topics
+Formating the Topics: 
+
 Save the requirements in a text file, with one topic on each line.
 
-Dependencies
+Dependencies:
+
 pdfkit
 bs4
 nltk
